@@ -1,4 +1,3 @@
 Hello World
 
-Hello Main BranchHello World2
 Hello World2
